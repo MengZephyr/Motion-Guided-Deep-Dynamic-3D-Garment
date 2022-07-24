@@ -4,7 +4,7 @@
 
 This repository contains the implemetation of [Motion-Guided-Deep-Dynamic-3D-Garment]()
 
-If you want to setup your own training, you need to prepare the dataset composed of the sequence of the body dynamics and the corresponding garment dynamics. Then,
+If you want to setup your own training, you need to prepare the dataset composed of the mesh sequence of the body dynamics and the corresponding mesh sequence of garment dynamics. Then,
 >>
 >> To get the required information and saved in the folder of '/uv_body/' and '/uv_garment/', please refer the code in [./uv_rasterRender](https://github.com/MengZephyr/Motion-Guided-Deep-Dynamic-3D-Garment/tree/main/uv_rasterRender) 
 >>
